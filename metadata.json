@@ -1,0 +1,5 @@
+{
+  "name": "Learning Nexus",
+  "description": "An application to generate personalized learning paths for any topic using Generative AI. Your universe of knowledge, unlocked and personalized.",
+  "requestFramePermissions": []
+}
